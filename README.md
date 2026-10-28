@@ -64,5 +64,28 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Plesk is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://plesk.com/
+Plesk is a web hosting and server management platform that helps you manage websites, servers, security, and WordPress from one dashboard. It offers a WebOps platform for app, site and hosting management, providing tools for automation, scaling, and integration with cloud services. Plesk supports multiple operating systems and control panels, enabling hosting providers and developers to streamline deployments, manage DNS, email, and databases, and secure environments with built-in security features.
+
+**Areas:** Company · Web Hosting · Server Management · Control Panel · Automation · WordPress
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://plesk.com/)
+- [Documentation](https://docs.plesk.com/en-US/obsidian/)
+- [Getting started](https://docs.plesk.com/en-US/obsidian/)
+- [API reference](https://docs.plesk.com/en-US/obsidian/api-rpc/introduction.79358/)
+- [Pricing](https://www.plesk.com/pricing/)
+- [Support](https://support.plesk.com/hc/en-us)
+- [Changelog](https://docs.plesk.com/release-notes/obsidian/change-log/)
+- [Blog](https://www.plesk.com/blog/)
+- [Terms of service](https://www.plesk.com/legal/)
+- [Privacy policy](https://www.plesk.com/legal/)
+- [GitHub](https://github.com/plesk)
+
+**APIs profiled:** 2
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/plesk/](https://apis.io/providers/plesk/).
